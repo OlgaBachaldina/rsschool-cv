@@ -1,9 +1,11 @@
 # Olga Bachaldina
-![myphoto](olbadra.jpg "Olga Bachaldina")
+![myphoto](olbadrab.jpg "Olga Bachaldina")
 
 ## Contacts
 **Email:** olbadrab@gmail.com
+
 **GitHub:** [my profile](https://github.com/OlgaBachaldina)
+
 **Discord (rs-school server):** Olga Bachaldina (@OlgaB)
 
 ## Brief summary
@@ -24,7 +26,7 @@ function nthFibo(n) {
 }
 ```
 ## Projects
-[rsschool-cv](https://github.com/OlgaBachaldina/rsschool-cv)
++ [rsschool-cv](https://github.com/OlgaBachaldina/rsschool-cv)
 
 ## Education
 The Bonch-Bruevich Saint Petersburg State University of Telecommunications
