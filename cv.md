@@ -6,7 +6,7 @@
 
 **GitHub:** [my profile](https://github.com/OlgaBachaldina)
 
-**Discord (rs-school server):** Olga Bachaldina (@OlgaB)
+**Discord (rs-school server):** *Olga Bachaldina (@OlgaB)*
 
 ## Brief summary
 I'm studying to be a communications network engineer. My purpose is to become a web application developer. I am able to multitask. My favourite part of working is to help people find their real problems and solve it. I wanna make life more splendid.
