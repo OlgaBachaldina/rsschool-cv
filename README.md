@@ -1,1 +1,1 @@
-https://OlgaBachaldina.github.io/rsschool-cv/cv
+https://OlgaBachaldina.github.io/rsschool-cv/
