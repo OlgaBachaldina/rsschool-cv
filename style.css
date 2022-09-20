@@ -23,12 +23,14 @@ p, li {
 }
 .img1 {
   display: block;
+  width: 250px;
   margin-left: 50px;
   margin-top: 40px;
   border-radius: 50%;
   border: 5px solid rgb(66, 3, 61);
 }
 .img_cont {
+  width: 30px;
   vertical-align: middle;
 }
 .all {
