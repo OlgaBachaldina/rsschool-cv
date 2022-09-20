@@ -9,13 +9,19 @@
 **Discord (rs-school server):** *Olga Bachaldina (@OlgaB)*
 
 ## Brief summary
-I'm studying to be a communications network engineer. My purpose is to become a web application developer. I am able to multitask. My favourite part of working is to help people find their real problems and solve it. I wanna make life more splendid.
+At the university I am studying for the specialty of communications network engineer. My purpose is to become a web application developer.
+Mostly, I like to communicate with people and solve difficult tasks in the workflow. I am able to multitask. 
+My favourite part of working process is to help people find their real problems and solve it. I wanna make life more splendid.
 
 ## Skills
-+ programming languages: Assembler, PascalABC, JavaScript
-+ version control: GitHub
++ Assembler, PascalABC
++ HTML5, CSS3
++ Git, GitHub
++ VS Code
 
-## Code
+## Code example
+N-th Fibonacci kata from codewars: 
+function returns the n-th number in the Fibonacci Sequence when given a number (n).
 ```
 function nthFibo(n) {
     let arr=[0,1];
@@ -28,8 +34,12 @@ function nthFibo(n) {
 ## Projects
 + [rsschool-cv](https://github.com/OlgaBachaldina/rsschool-cv)
 
+## Courses
++ [«JS/Front-end. Stage#1» (in progress)](https://rs.school/js)
++ [JavaScript Manual (in progress)](https://learn.javascript.ru)
+
 ## Education
 The Bonch-Bruevich Saint Petersburg State University of Telecommunications
 
 ## English
-A2 (Pre-Intermediate)
+B1 (Pre-Intermediate)
