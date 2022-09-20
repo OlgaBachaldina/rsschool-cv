@@ -17,7 +17,6 @@
 
 <body>
   <div class="all">
-  <!-- <script src="js/scripts.js"></script> -->
   <div class="left"> <!-- Левый блок: фото, контакты, образование, список проектов -->
     <img class="img1" src="olbadrab.jpg" style="width:250px" alt="olbadrab">
     <div class="left_text">
@@ -43,7 +42,6 @@
 
   <div class="right"><!-- Основной блок - о себе; перечень навыков; пример кода -->
     <h1>Olga Bachaldina</h1>
-    <!--<div class="head"><h2>Saint-Petersburg</h2></div>-->
     <div class="left_text">
     <h2>Brief summary</h2>
     <p>
@@ -63,17 +61,16 @@
     <h2>Code example</h2>
     <p> N-th Fibonacci kata from codewars: 
       function returns the n-th number in the Fibonacci Sequence when given a number (n).
-    </p>
-    <div class="code">  
+    </p> 
     <code>
       function nthFibo(n) {<br>
         &nbsp;let arr=[0,1];<br>
-          &nbsp;for (let i=2;i<=n;i++){<br>
+          &nbsp;for (let i=2;i&lt;=n;i++){<br>
             &nbsp;&nbsp;&nbsp;arr.push(arr[i-2]+arr[i-1]);<br>
               &nbsp;}<br>
                 &nbsp;return arr[n-1];<br>
       }<br>
-    </code></div>
+    </code>
     </div>
     <h2>English</h2>
     <p>B1 (Pre-Intermediate)<br>
