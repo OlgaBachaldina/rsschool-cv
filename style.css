@@ -48,15 +48,6 @@ p, li {
   padding: 38px 12px 0px 420px;
   background-color: #f3e0fa;
 }
-.code {
+code {
   color: rgb(116, 18, 104);
 }
-/*.head {
-  text-align: center;
-  padding: 0px 0;
-}
-.code_ex {
-  background-color: #d5b2e0;
-  #dcc3e4 - левый фон
-  #f3e0fa - правый фон
-}*/
